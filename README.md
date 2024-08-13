@@ -1,2 +1,2 @@
 # TBANet
-A pytorch implemntation for the TBANet
+A pytorch implementation for the TBANet
