@@ -33,7 +33,7 @@ sh run_train_eval.sh
 ```
 
 ## Visualizations
-<img src="figs/TBANet-vis-result.png" alt="input" style="width:600px">
+<img src="figs/TBANet-vis-result.png" alt="input" style="width:800px">
 
 
 
