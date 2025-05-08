@@ -32,6 +32,8 @@ After the preparation, you can run the script by
 sh run_train_eval.sh
 ```
 
+## Visualizations
+<img src="figs/vis.jpg" alt="input" style="width:600px">
 
 
 
